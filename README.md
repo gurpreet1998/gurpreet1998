@@ -21,6 +21,13 @@
 
 ---
 
+### 📚 Certification
+- **Certified Kubernetes Administrator**. [View Certification →](https://www.credly.com/badges/913cd72b-6cab-494e-964f-ff4ebf051b50/linked_in_profile)
+
+---
+
+---
+
 ### 📚 Projects & Publications
 - **SmartMiles**: A carpooling platform leveraging **React.js**, **Node.js**, **AWS**, and microservices. [View Project →](#)
 - 📰 Published **Intelligent Skin Cancer Detection**: JARDCS Journal. [Read →](#)
@@ -39,7 +46,7 @@
 <td>
 
 ### 📬 How to Reach Me
-- 📞 **Number** 668-588-7103
+- 📞 **Number** 669-588-7103
 - 💼 **LinkedIn**: [linkedin.com/in/gurpreets1998](https://linkedin.com/in/gurpreets1998)  
 - 💻 **GitHub**: [github.com/gurpreet1998](https://github.com/gurpreet1998)  
 - 📧 **Email**: [gurpreet.1998m@gmail.com](mailto:gurpreet.1998m@gmail.com)
