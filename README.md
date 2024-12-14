@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gurpreet Singh
+# Hi 👋, I'm Gurpreet Singh - SDE at Western Digital
 
 <table>
   <tr>
