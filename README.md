@@ -39,7 +39,7 @@
 <td>
 
 ### 📬 How to Reach Me
-- 📞 **Ph Number** 668-588-7103
+- 📞 **Number** 668-588-7103
 - 💼 **LinkedIn**: [linkedin.com/in/gurpreets1998](https://linkedin.com/in/gurpreets1998)  
 - 💻 **GitHub**: [github.com/gurpreet1998](https://github.com/gurpreet1998)  
 - 📧 **Email**: [gurpreet.1998m@gmail.com](mailto:gurpreet.1998m@gmail.com)
