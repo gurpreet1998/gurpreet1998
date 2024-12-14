@@ -76,5 +76,3 @@ I am a passionate **Software Development Engineer** with a proven track record o
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
 
 ---
-
-This README file is structured to catch a recruiter's attention while highlighting your certifications, experience, and skills. It uses badges and clear sections to organize information effectively. Copy the content above into the `README.md` file in your profile repository to display it on your GitHub profile page.
