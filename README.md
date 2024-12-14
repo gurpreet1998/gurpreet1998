@@ -6,7 +6,7 @@
 
 ### 🎓 Certified Kubernetes Administrator (CKA) | Terraform Associate | AWS Certified Solutions Architect
 
-🚀 **Software Development Engineer** with **4+ years of experience** in designing scalable distributed systems, enhancing CI/CD pipelines, and automating infrastructure using **Kubernetes**, **Terraform**, and **AWS**. I’m passionate about solving complex engineering challenges and creating impactful solutions.
+🚀 **Software Development Engineer** with **3 years of experience** in designing scalable distributed systems, enhancing CI/CD pipelines, and automating infrastructure using **Kubernetes**, **Terraform**, and **AWS**. I’m passionate about solving complex engineering challenges and creating impactful solutions.
 
 - 🌟 Currently working on **highly scalable distributed systems** handling terabytes of data daily.
 - 🌱 Exploring **Machine Learning** integration into cloud-native solutions.
@@ -39,10 +39,11 @@
 <td>
 
 ### 📬 How to Reach Me
-- 🌐 **Portfolio**: [gurpreet-singh.dev](#)  
+- 📞 **Ph Number** 668-588-7103
 - 💼 **LinkedIn**: [linkedin.com/in/gurpreets1998](https://linkedin.com/in/gurpreets1998)  
 - 💻 **GitHub**: [github.com/gurpreet1998](https://github.com/gurpreet1998)  
-- 📧 **Email**: [gurpreet.1998m@gmail.com](mailto:gurpreet.1998m@gmail.com)  
+- 📧 **Email**: [gurpreet.1998m@gmail.com](mailto:gurpreet.1998m@gmail.com)
+- - 🌐 **Medium**: [gurpreet-singh.dev](https://medium.com/devops-dev/externalizing-app-configuration-with-kubernetes-configmaps-helm-charts-and-terraform-a-deep-dive-bbe738705636)  
 
 ---
 
