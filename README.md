@@ -13,20 +13,19 @@ I am a passionate **Software Development Engineer** at **Western Digital** with 
 
 ---
 
+## 📈 Notable Achievements
+- 🚀 Developed a **web crawler** processing **10+ TB of data daily** and indexed **100M+ records** for analytics using **Python**, **Spring Boot**, and **Elasticsearch**.
+- 🔍 Built a **real-time monitoring dashboard** for 100+ microservices, improving incident resolution time by **30%**.
+- 🛠 Automated provisioning of **large-scale infrastructure** using **Terraform** for Kubernetes and IAM policies, reducing manual efforts by **40%**.
+- 💡 Reduced system downtime from **97% to 99.9%** by resolving **100+ production issues** with SLA adherence.
+
+---
 ## 💡 A Glimpse of My Expertise
 - **Languages**: Python, Go, Java, Node.js, JavaScript, C++, HTML5, CSS
 - **Cloud & DevOps**: Kubernetes (EKS, EC2), AWS, Terraform, Docker, Helm
 - **Tools & Frameworks**: Spring Boot, React.js, Kafka, Elasticsearch, Redis, Jenkins
 - **Databases**: PostgreSQL, Cassandra
 - **Skills**: Microservices Architecture, Distributed Systems, Infrastructure as Code (IaC), CI/CD, Monitoring Systems
-
----
-
-## 📈 Notable Achievements
-- 🚀 Developed a **web crawler** processing **10+ TB of data daily** and indexed **100M+ records** for analytics using **Python**, **Spring Boot**, and **Elasticsearch**.
-- 🔍 Built a **real-time monitoring dashboard** for 100+ microservices, improving incident resolution time by **30%**.
-- 🛠 Automated provisioning of **large-scale infrastructure** using **Terraform** for Kubernetes and IAM policies, reducing manual efforts by **40%**.
-- 💡 Reduced system downtime from **97% to 99.9%** by resolving **100+ production issues** with SLA adherence.
 
 ---
 
