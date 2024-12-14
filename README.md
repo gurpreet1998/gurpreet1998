@@ -2,7 +2,7 @@
 
 🎓 **Certified Kubernetes Administrator (CKA) | Terraform Associate | AWS Certified Solutions Architect**
 
-I am a passionate **Software Development Engineer** at **Western Digital** with a proven track record of designing and deploying scalable distributed systems, improving system reliability, and enhancing CI/CD pipelines. With over **4 years of experience** across cloud-native solutions, microservices, and infrastructure automation, I strive to create impactful solutions with precision and efficiency.
+I am a passionate **Software Development Engineer** at **Western Digital** with a proven track record of designing and deploying scalable distributed systems, improving system reliability, and enhancing CI/CD pipelines. With over **3 years of experience** across cloud-native solutions, microservices, and infrastructure automation, I strive to create impactful solutions with precision and efficiency.
 
 ---
 
